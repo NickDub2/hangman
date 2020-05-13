@@ -1,0 +1,3 @@
+
+CONSONANTS = 'bcdfghjklmnpqrstvwxyz'
+VOWELS = 'aeiou'
